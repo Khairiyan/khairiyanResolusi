@@ -1,3 +1,5 @@
 LOMBA 
 - PKM
+  *Membuat Kipas Angin Baterai
+  *Membuat aplikasi ibu dan anak
 - GEMASTIK
