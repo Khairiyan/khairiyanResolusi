@@ -3,4 +3,4 @@ LOMBA
   *Membuat Kipas Angin Baterai
   *Membuat aplikasi ibu dan anak
 - GEMASTIK
-  *Membuat aplikasi untuk saluran tv
+  *Membuat Game
